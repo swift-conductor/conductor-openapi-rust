@@ -1,0 +1,8 @@
+{
+    "packageName": "swift-conductor-openapi",
+    "packageVersion": "3.16.0",
+    "enumNameSuffix": "Enum",
+    "library": "reqwest",
+    "supportMiddleware": false,
+    "useSingleRequestParameter": false 
+}
